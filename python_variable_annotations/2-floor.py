@@ -3,6 +3,6 @@
 
 
 def floor(n: float) -> int:
-  """the floor of the input float."""
-  
-  return int(n)
+    """the floor of the input float."""
+
+    return int(n)
